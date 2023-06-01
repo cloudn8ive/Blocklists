@@ -1,0 +1,14 @@
+# List distributed by iblocklist.com
+
+uTorrent:72.20.34.145-72.20.34.145
+uTorrent:67.215.233.130-67.215.233.131
+Demonoid:62.149.24.64-62.149.24.95
+Mininova:87.233.147.128-87.233.147.191
+TV Underground:91.194.41.49-91.194.41.49
+TV Underground:91.194.40.23-91.194.40.23
+TV Underground:193.107.208.37-193.107.208.37
+isoHunt Web Technologies, Inc.:208.71.112.0-208.71.112.255
+Bittorrent, Inc.:64.127.109.128-64.127.109.255
+uTorrent:72.20.52.46-72.20.52.46
+OpenBitTorrent:84.243.202.178-84.243.202.178
+Azureus:209.234.241.0-209.234.241.63
